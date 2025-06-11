@@ -10,10 +10,10 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <div className="text-2xl font-bold text-white mb-4">
-              <span className="text-orange-500">Nex</span>Biz
+              <span className="text-orange-500">Gloveries Business Solution Ltd</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Providing innovative IT solutions for businesses to enhance productivity and drive growth.
+              Gloveries Business Solution Ltd is a leading IT solutions provider, dedicated to delivering innovative and reliable services to help businesses thrive in the digital age. Our expertise spans across IT consulting, cloud services, cybersecurity, web development, and more.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="bg-gray-700 hover:bg-orange-500 w-10 h-10 rounded-full flex items-center justify-center transition">
@@ -61,22 +61,22 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <FaMapMarkerAlt className="text-orange-500 mt-1 mr-3" />
-                <span className="text-gray-400">123 Business Avenue, Suite 100, San Francisco, CA 94107</span>
+                <span className="text-gray-400">24 Bawala Pedro Gbagada, Lagos Nigeria.</span>
               </li>
               <li className="flex items-center">
                 <FaPhone className="text-orange-500 mr-3" />
-                <span className="text-gray-400">+1 (123) 456-7890</span>
+                <span className="text-gray-400">+234 816 469 5529</span>
               </li>
               <li className="flex items-center">
                 <FaEnvelope className="text-orange-500 mr-3" />
-                <span className="text-gray-400">info@nexbiz.com</span>
+                <span className="text-gray-400">gloveries@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 pt-8 text-center text-gray-500">
-          <p>&copy; {new Date().getFullYear()} Nexbiz IT Solutions. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Gloveries Business Solution Ltd. All Rights Reserved.</p>
         </div>
       </div>
     </footer>

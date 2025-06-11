@@ -7,13 +7,13 @@ const Testimonials = () => {
     {
       name: 'John Anderson',
       role: 'CEO, Tech Solutions Inc.',
-      content: 'Nexbiz transformed our IT infrastructure and helped us reduce costs by 30%. Their team is professional and responsive.',
+      content: 'Gloveries transformed our IT infrastructure and helped us reduce costs by 30%. Their team is professional and responsive.',
       rating: 5
     },
     {
       name: 'Sarah Johnson',
       role: 'CTO, Innovate Co.',
-      content: 'The cybersecurity solutions provided by Nexbiz have been exceptional. We feel much more secure now.',
+      content: 'The cybersecurity solutions provided by Gloveries have been exceptional. We feel much more secure now.',
       rating: 5
     },
     {

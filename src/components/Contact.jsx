@@ -37,17 +37,17 @@ const Contact = () => {
     {
       icon: <FaMapMarkerAlt className="text-2xl text-orange-500" />,
       title: 'Our Location',
-      details: '123 Business Avenue, Suite 100, San Francisco, CA 94107'
+      details: '24 Bawala Pedro Gbagada, Lagos, Nigeria'
     },
     {
       icon: <FaPhone className="text-2xl text-orange-500" />,
       title: 'Phone Number',
-      details: '+1 (123) 456-7890'
+      details: '+234 816 469 5529'
     },
     {
       icon: <FaEnvelope className="text-2xl text-orange-500" />,
       title: 'Email Address',
-      details: 'info@nexbiz.com'
+      details: 'osamaimafidon@gmail.com'
     },
     {
       icon: <FaClock className="text-2xl text-orange-500" />,
@@ -220,7 +220,7 @@ const Contact = () => {
                 <FaPhone className="text-2xl mr-4" />
                 <div>
                   <div className="text-sm text-orange-200">Emergency Support</div>
-                  <div className="text-2xl font-bold">+1 (800) 123-4567</div>
+                  <div className="text-2xl font-bold">+234 816 469 5529</div>
                 </div>
               </div>
             </div>

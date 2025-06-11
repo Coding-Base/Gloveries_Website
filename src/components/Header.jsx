@@ -27,11 +27,11 @@ const Header = () => {
           <div className="flex items-center mb-2 md:mb-0">
             <div className="flex items-center mr-6">
               <FaPhone className="mr-2 text-orange-500" />
-              <span>+1 (123) 456-7890</span>
+              <span>+234 816 469 5529</span>
             </div>
             <div className="flex items-center">
               <FaEnvelope className="mr-2 text-orange-500" />
-              <span>info@nexbiz.com</span>
+              <span>gloveries@gmail.com</span>
             </div>
           </div>
           

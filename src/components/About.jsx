@@ -38,7 +38,7 @@ const About = () => {
                 className="w-full rounded-xl shadow-xl"
               />
               <div className="absolute -bottom-6 -right-6 bg-orange-500 p-6 rounded-lg shadow-xl">
-                <div className="text-4xl font-bold text-white">15+</div>
+                <div className="text-4xl font-bold text-white">8+</div>
                 <div className="text-white font-medium">Years Experience</div>
               </div>
             </div>
@@ -48,7 +48,7 @@ const About = () => {
             <span className="text-orange-500 font-semibold">ABOUT US</span>
             <h2 className="text-3xl md:text-4xl font-bold mt-2 mb-6">We Help Businesses Innovate and Grow</h2>
             <p className="text-gray-600 mb-8 leading-relaxed">
-              Nexbiz is a leading provider of IT solutions and services. We help businesses transform and grow through innovative technology solutions. Our team of experts is dedicated to delivering exceptional results and outstanding customer service.
+              Gloveries is a leading provider of IT solutions and services. We help businesses transform and grow through innovative technology solutions. Our team of experts is dedicated to delivering exceptional results and outstanding customer service.
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-8">
